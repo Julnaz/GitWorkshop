@@ -1,5 +1,5 @@
 Main()
 {
     username = "Line";
-	username.new = "Søren";
+	code = 11112;
 }
